@@ -1,0 +1,30 @@
+/* 
+Theme Name: Hanayaka
+Theme URI: https://hnyka.com
+Description: Theme of Hnyka Media Official
+Version: 1.0
+Author: Hiroshi Kadokura
+Author URI: https://hnyka.com
+*/
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.jumbotron {
+  background-image: url("https://images.unsplash.com/photo-1436262513933-a0b06755c784?ixlib=rb-1.2.1&auto=format&fit=crop&w=1651&q=80");
+  background-size: cover;
+  background-position: bottom;
+  background-repeat: no-repeat;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
